@@ -1,0 +1,4 @@
+{
+  "testRepo": "flip-image-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
+}
