@@ -1,6 +1,7 @@
 .image-container {
-    width: 300px; /* Adjust as needed */
-    height: 200px; /* Adjust as needed */
+	margin:2rem 1rem;
+    width: 500px; /* Adjust as needed */
+    height: 500px; /* Adjust as needed */
     background-image: url('https://images.pexels.com/photos/6785279/pexels-photo-6785279.jpeg');
     background-size: cover; /* Make sure the image covers the container */
     background-position: center; /* Center the background image */
