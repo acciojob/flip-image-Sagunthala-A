@@ -1,13 +1,12 @@
 .image-container {
-	margin:2rem 1rem;
-    width: 500px; /* Adjust as needed */
-    height: 500px; /* Adjust as needed */
+    width: 300px; /* Adjust size */
+    height: 200px; /* Adjust size */
     background-image: url('https://images.pexels.com/photos/6785279/pexels-photo-6785279.jpeg');
-    background-size: cover; /* Make sure the image covers the container */
+    background-size: cover; /* Ensure the image covers the container */
     background-position: center; /* Center the background image */
     transition: background-image 0.3s ease-in-out; /* Smooth transition */
 }
 
-.image-container:hover {
+#flip:hover {
     background-image: url('https://live.staticflickr.com/8138/29099429912_0659caf55b_b.jpg');
 }
